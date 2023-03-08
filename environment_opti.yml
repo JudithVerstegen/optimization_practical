@@ -1,0 +1,12 @@
+name: opti
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.8
+  - jupyter
+  - spyder
+  - matplotlib
+
+  
