@@ -8,7 +8,7 @@ This tutorial has the intention to give you a first idea on how to define a cont
 To do the tutorial:
 - Download conda (I advise miniconda, but it is up to you)
 - Start the conda prompt
-- Create the environment for the tutorial with the command `conda env create --file environment_opti.yml`
+- Create the environment for this tutorial with the command `conda env create --file environment_opti.yml` and activate it, or activate your existing SSML course environment
 - Start Jupyter Notebook with the command `jupyter notebook`
 - In the browser page that opens, select the notebook file Spatial_optimization_practicals_1.ipynb
 - Perform the tutorial by reading instructions, studying the code, running the code, and answering the questions
